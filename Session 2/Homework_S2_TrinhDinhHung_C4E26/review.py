@@ -24,8 +24,13 @@ say_hello()
 #
 # Cau 6: What are function arguments/parameters, why and how we use it?
 # Answer: 
+#        + parameter : A name used inside a function to refer to the value which was passed to it as an argument.
+#        + argument : A value provided to a function when the function is called. This value is assigned to the corresponding parameter in the function. The argument can be the result of an expression which may involve operators,
+#                     operands and calls to other fruitful functions.
+
 # Cau 7: How to use function from a different file other than our currently working file?
-# Answer:
+# Answer: Đây là một cách 
+from name_file import name_function
 #
 #
 
